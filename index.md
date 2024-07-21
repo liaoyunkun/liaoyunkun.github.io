@@ -11,7 +11,8 @@ Hi! I am Yunkun Liao (廖云坤), a 4th year Ph.D Student at ICT, CAS, advised b
 
 [Google scholar](https://scholar.google.com/citations?user=6ITn_W8AAAAJ&hl=en) **I hope to continuously improve the quality of my research.**
 
-For me, try to **think big, aim high, act bold and make positive changes**.
+For research, try to **think big, aim high, act bold and make positive changes**.
+For life, try to make **Good Thoughts, Good Words, Good Deeds**.
 
 ## Education
 * Sep. 2020 - Present: **University of Chinese Academy of Sciences**
