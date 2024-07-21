@@ -13,7 +13,9 @@ Hi! I am Yunkun Liao (廖云坤), a 4th year Ph.D Student at ICT, CAS, advised b
 
 For research, try to **think big, aim high, act bold and make positive changes**.
 
-For life, try to make **Good Thoughts, Good Words, Good Deeds**.
+For people around me, try to make **Good Thoughts, Good Words, Good Deeds**.
+
+For the life journey, I believe **He who has a why to live can bear almost any how.** (Friedrich Nietzsche).
 
 ## Education
 * Sep. 2020 - Present: **University of Chinese Academy of Sciences**
