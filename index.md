@@ -4,58 +4,67 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="yintao.jpg">
+<img class="profile-picture" src="Yunkun_in_SF.jpg">
 
-Hi! I am Yintao He (何银涛), a 4th year Ph.D Student at ICT, CAS, advised by Prof. [Huawei Li](http://people.ucas.ac.cn/~lihuawei) and Prof. [Ying Wang](https://wangying-ict.github.io/). Currently, I am a visiting PhD student at ETH Zurich, working with Prof. [Onur Mutlu](https://people.inf.ethz.ch/omutlu/).
+Hi! I am Yunkun Liao (廖云坤), a 4th year Ph.D Student at ICT, CAS, advised by Prof. [Guihai Yan](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328593.html). Currently, I am doing research in the intersection between computer 
+ network and computer architecture. 
 
-Know more about me: [Google scholar](https://scholar.google.com/citations?user=afVBxsQAAAAJ&hl=en&oi=ao)   [linkedin](https://www.linkedin.com/in/yintao-he-6b3637159/?originalSubdomain) 
+[Google scholar](https://scholar.google.com/citations?user=6ITn_W8AAAAJ&hl=en) **I hope to continuously improve the quality of my research.**
 
+For me, try to **think big, aim high, act bold and make positive changes**.
 
 ## Education
-* Sep. 2019 - Present: **University of Chinese Academy of Sciences**
+* Sep. 2020 - Present: **University of Chinese Academy of Sciences**
 
    Ph.D Student in Computer Systems and Architecure
 
 
-* Sep. 2015 - Jun. 2019: **Nankai University**
+* Sep. 2016 - Jun. 2020: **Shanghai Jiao Tong University**
 
-   B.E. in Electrical Engineering
+   B.E. in Microelectronics Science and Engineering
 
+## Industry Experience
+* Jan. 2021 - Jun. 2022: **YUSUR Technology Co., Ltd.**
+
+   FPGA/IC engineer for RDMA NIC subsystem. Related products: [FLEXFLOW®-2100R RDMA](https://www.yusur.tech/product/flexflow/flexflow2100r), [K2-Pro DPU Chip, full-fledged DPU, taped out in TSMC 28nm](https://www.yusur.tech/dpu/K2-Pro).
+  
 ## Publications
+**In order to be recognized by the research community, you have to publish papers in ISCA/MICRO/ASPLOS/HPCA and SIGCOMM/NSDI.**
+### Emerging Networking Hardware
+- **GLSVLSI 2023** ["Optimize the TX Architecture of RDMA NIC for Performance Isolation in the Cloud Environment"](https://dl.acm.org/doi/10.1145/3583781.3590276), **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. [Code](https://github.com/liaoyunkun/RDMA-NIC-Isolation-Research)
+- **TC** ["DPU-Direct: Unleashing Remote Accelerators via Enhanced RDMA for Disaggregated Datacenters"](https://ieeexplore.ieee.org/abstract/document/10536912),  **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. 
+- **Euro-PAR 2024** "Efficient RNIC Cache Side-channel Attack Detection through DPU-driven Architecture", **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. 
+- **Euro-PAR 2024** "Athena: Add More Intelligence to RMT-based Network Data Plane with Low-bit Quantization", **Yunkun Liao**, Hanyue Lin, Jingya Wu, Wenyan Lu, Huawei Li, Xiaowei Li and Guihai Yan. 
 
-- **[TCAD] Yintao He**, Bing Li, Ying Wang, Cheng Liu, Huawei Li, Xiaowei Li, "A Task-Adaptive in-situ ReRAM Computing for Graph Convolutional Networks", to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/document/10463614)
-- **[DATE'24] Yintao He**, Shixin Zhao, Songyun Qu, Huawei Li, Xiaowei Li, Ying Wang, "Bit-Trimmer: Ineffectual Bit-operation Removal for CIM Architecture," to appear in Design, Automation and Test in Europe Conference, 2024.
-- **[DAC'22] Yintao He**, Songyun Qu, Ying Wang, Bing Li, Huawei Li, Xiaowei Li, "InfoX: An Energy-Efficient ReRAM Accelerator Design with Information-Lossless Low-Bit ADCs," in IEEE/ACM Proceedings of Design, Automation Conference, 2022.(CCF-A) [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3489517.3530396)
-- **[TCAD] Yintao He**, Ying Wang, Huawei Li, Xiaowei Li, "Saving Energy of RRAM-based Neural Accelerator through State-Aware Computing," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9508444)
-- **[DAC'21] Yintao He**, Ying Wang, Cheng Liu, Huawei Li, Xiaowei Li, "TARe: Task-Adaptive in-situ ReRAM Computing for Graph Learning," in IEEE/ACM Proceedings of Design, Automation Conference, 2021.(CCF-A, Acceptance Rate: 215/916 = 23.5%) [\[paper\]](https://ieeexplore.ieee.org/document/9586193)
-- **[DAC'20] Yintao He**, Ying Wang, Xiandong Zhao, Huawei Li, Xiaowei Li, "Towards State-Aware Computation in ReRAM Neural Networks," in IEEE/ACM Proceedings of Design, Automation Conference, 2020.(CCF-A, Acceptance Rate: 228/991=23.0%) [\[paper\]](https://ieeexplore.ieee.org/document/9218729) [\[code\]](https://github.com/wangying-ict/BWN_Shift)
-- **[ICCAD'19] Yintao He**, Ying Wang, Yongchen Wang, Huawei Li, Xiaowei Li, "An Agile Precision-Tunable CNN Accelerator based on ReRAM," in IEEE/ACM International Conference On Computer Aided Design, 2019.(CCF-B, Acceptance Rate: 94/394=23.8%) [\[paper\]](https://ieeexplore.ieee.org/document/8942163)
-- **[ASPLOS'24]** Songyun Qu, Shixin Zhao, Bing Li, **Yintao He**, Xuyi Cai, Ying Wang, Lei Zhang, "CIM-MLC: A Multi-level Compilation Stack for Computing-In-Memory Accelerators," to appear in International Conference on Architectural Support for Programming Languages and Operating Systems, 2024.(CCF-A)
-- **[DAC'24]** Lian Liu, Zhaohui Xu, **Yintao He**, Ying Wang, Huawei Li, Xiaowei Li and Yinhe Han, "Drift: Leveraging Distribution-based Dynamic Precision Quantization for Efficient Deep Neural Network Acceleration," to appear in IEEE/ACM Proceedings of Design, Automation Conference, 2024.(CCF-A) 
-- **[DAC'23]** Mingjia Fan, Xiaotian Tian, **Yintao He**, Junxian Li, Yiru Duan, Xiaozhe Hu, Ying Wang, Zhou Jin and Weifeng Liu, "AmgR: Algebraic Multigrid Accelerated on ReRAM" in IEEE/ACM Proceedings of Design, Automation Conference, 2023.(CCF-A) 
-- **[TC]** Wen Li, Ying Wang, Cheng Liu, **Yintao He**, Lian Liu, Huawei Li, Xiaowei Li, "On-line Fault Protection for ReRAM-based Neural Networks," in IEEE Transactions on Computers, 2022.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/document/9737421)
-- **[TCAD]** Ying Wang, **Yintao He**, Long Cheng, Huawei Li, Xiaowei Li, "A Fast Precision Tuning Solution for Always-On DNN Accelerators," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2021.(CCF-A) [\[paper\]](https://ieeexplore.ieee.org/document/9455397)
+### Domain-specific Accelerator
+- **FPL 2020** ["A Winograd-based CNN accelerator with a fine-grained regular sparsity pattern"](https://ieeexplore.ieee.org/document/9221628), Tao Yang, **Yunkun Liao**, Jianping Shi, Yun Liang, Naifeng Jing, Li Jiang. [Code, Pruning Algorithm](https://github.com/liaoyunkun/Winograd-NN-Prune-FPL-2020)
+- **DAC 2024** "PHD: Parallel Huffman Decoder on FPGA for Extreme Performance and Energy Efficiency", **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. 
+
+## Authorized Patents
+- [RDMA网卡发送队列的性能隔离方法和RDMA网卡](https://www.qixin.com/company-detail/patent/434e3230323331303736323132332e38/54)
+
+## Whitepapers
+- [Technical White Paper of Data Processing Unit, in Chinese](./DPU-whitepaper-publish-2021.pdf): This is the first DPU whitepaper in China.
+- [DPU Benchmark Methodology and Implementation, in Chinese](./DPU_Benchmark.pdf): This is the first DPU evaluation whitepaper in China.
 
 ## Honors and Awards
 
-* 2024 CAS President Scholarship (Special Prize) (中科院院长特别奖, 1/1500)
-* 2022 National Scholarship
-* 2022 Director's Special Scholarship (7/1500)
-* 2020, 2021 First Prize in Academic Scholarship in UCAS
-* 2020, 2021 UCAS Merit Student
-* 2020 DAC Young Fellow Best Poster Award
-* 2020 DAC Young Fellowship
-* 2019 Outstanding Graduation Thesis (Top 5 in the department)
-
+* 2023 UCAS Merit Student
+  
 ## Services
 
-* Reviewer: IEEE Trans. CAD, ITC 2023
+* Reviewer: BenchCouncil Transactions on Benchmarks, Standards and Evaluations
 
 ## Contact Me
 
-* Email: [heyintao19z@ict.ac.cn](mailto:heyintao19z@ict.ac.cn)
+* Email: [liaoyunkun20s@ict.ac.cn](mailto:liaoyunkun20s@ict.ac.cn)
 * Postal Address: No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China 100190
 
+## Misc
+- Books I like: 《Jean-Christophe》，《Really Achieving Your Childhood Dreams》，《The Snows of Kilimanjaro》，《Minimalism》
+
 ---
+
+
 
 
