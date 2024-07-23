@@ -65,7 +65,7 @@ For the life journey, I believe **He who has a why to live can bear almost any h
 * Postal Address: No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China 100190
 
 ## Misc
-- Books I like: 《Jean-Christophe》，《Really Achieving Your Childhood Dreams》，《The Snows of Kilimanjaro》，《Minimalism》
+- Books I like: 《Jean-Christophe》，《Really Achieving Your Childhood Dreams》，《The Snows of Kilimanjaro》，《Minimalism》，《Decisive Moments in History》
 
 ---
 
