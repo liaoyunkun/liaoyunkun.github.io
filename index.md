@@ -42,7 +42,7 @@ For the life journey, I believe **He who has a why to live can bear almost any h
 
 ### Domain-specific Accelerator
 - **FPL 2020** ["A Winograd-based CNN accelerator with a fine-grained regular sparsity pattern"](https://ieeexplore.ieee.org/document/9221628), Tao Yang, **Yunkun Liao**, Jianping Shi, Yun Liang, Naifeng Jing, Li Jiang. [Code, Pruning Algorithm](https://github.com/liaoyunkun/Winograd-NN-Prune-FPL-2020)
-- **DAC 2024** ["PHD: Parallel Huffman Decoder on FPGA for Extreme Performance and Energy Efficiency"](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_18), **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. 
+- **DAC 2024** "PHD: Parallel Huffman Decoder on FPGA for Extreme Performance and Energy Efficiency", **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. 
 
 ## Authorized Patents
 - [RDMA网卡发送队列的性能隔离方法和RDMA网卡](https://www.qixin.com/company-detail/patent/434e3230323331303736323132332e38/54)
