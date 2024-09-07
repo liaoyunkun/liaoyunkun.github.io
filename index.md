@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="Yunkun_in_SF.jpg">
+<img class="profile-picture" src="Yunkun_in_Madrid.jpg">
 
 Hi! I am Yunkun Liao (廖云坤), a 4th year Ph.D Student at ICT, CAS, advised by Prof. [Guihai Yan](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328593.html). Currently, I am doing research in the intersection between computer 
  network and computer architecture. 
