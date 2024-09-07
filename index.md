@@ -57,7 +57,7 @@ For the life journey, I believe **He who has a why to live can bear almost any h
   
 ## Services
 
-* Reviewer: BenchCouncil Transactions on Benchmarks, Standards and Evaluations
+* Reviewer: BenchCouncil Transactions on Benchmarks, Standards and Evaluations, The Journal of Supercomputing.
 
 ## Contact Me
 
