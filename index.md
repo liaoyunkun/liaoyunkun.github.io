@@ -52,7 +52,7 @@ For the life journey, I believe **He who has a why to live can bear almost any h
 - [DPU Benchmark Methodology and Implementation, in Chinese](./DPU_Benchmark.pdf): This is the first DPU evaluation whitepaper in China.
 
 ## Honors and Awards
-
+* CCF HPC China 2024 Outstanding Paper
 * 2023 UCAS Merit Student
   
 ## Services
