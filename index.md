@@ -66,6 +66,7 @@ For the life journey, I believe **He who has a why to live can bear almost any h
 
 ## Misc
 - Books I like: 《Jean-Christophe》，《Really Achieving Your Childhood Dreams》，《The Snows of Kilimanjaro》，《Minimalism》，《Decisive Moments in History》
+- Role Models: Prof. Randy Pausch, Prof. Onur Multu, My advisor.
 
 ---
 
