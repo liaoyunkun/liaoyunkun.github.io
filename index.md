@@ -33,7 +33,6 @@ For the life journey, I believe **He who has a why to live can bear almost any h
    FPGA/IC engineer for RDMA NIC subsystem. Related products: [FLEXFLOW®-2100R RDMA](https://www.yusur.tech/product/flexflow/flexflow2100r), [K2-Pro DPU Chip, full-fledged DPU, taped out in TSMC 28nm](https://www.yusur.tech/dpu/K2-Pro).
   
 ## Publications
-**In order to be recognized by the research community, you have to publish papers in ISCA/MICRO/ASPLOS/HPCA and SIGCOMM/NSDI.**
 ### Emerging Networking Hardware
 - **GLSVLSI 2023** ["Optimize the TX Architecture of RDMA NIC for Performance Isolation in the Cloud Environment"](https://dl.acm.org/doi/10.1145/3583781.3590276), **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. [Code](https://github.com/liaoyunkun/RDMA-NIC-Isolation-Research)
 - **TC** ["DPU-Direct: Unleashing Remote Accelerators via Enhanced RDMA for Disaggregated Datacenters"](https://ieeexplore.ieee.org/abstract/document/10536912),  **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. 
