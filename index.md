@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="Yunkun_in_Madrid.jpg">
 
 Hi! I am Yunkun Liao (廖云坤), a 5th year Ph.D Student at ICT, CAS, advised by Prof. [Guihai Yan](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328593.html). Currently, I am doing research in the intersection between computer 
- network and computer architecture. I am expected to graduate in 2026/01, planing to find a postdoc position abroad.
+ network and computer architecture (computing-network convergence, "算网融合" in Chinese). I am expected to graduate in 2026/01, planing to find a postdoc position abroad.
 
 [Google scholar](https://scholar.google.com/citations?user=6ITn_W8AAAAJ&hl=en) **I hope to continuously improve the quality of my research.**
 
@@ -32,6 +32,13 @@ For the life journey, I believe **He who has a why to live can bear almost any h
 
    FPGA/IC engineer for RDMA NIC subsystem. Related products: [FLEXFLOW®-2100R RDMA](https://www.yusur.tech/product/flexflow/flexflow2100r), [K2-Pro DPU Chip, full-fledged DPU, taped out in TSMC 28nm](https://www.yusur.tech/dpu/K2-Pro).
   
+## 算网融合
+### 网中有算
+数据中心Scale-Out, Disaggregation是未来算力增长的关键路径，网络基础设施应足够强、以释放大规模算力。
+（对网络基础设施“强”的定性：释放大规模算力需要网络基础设施具备“远程访问本地化”、“硬件资源虚拟化”、“安全防护内联化”，“运行维护集约化”。）
+### 算中有网
+一种新的计算编排方式，打破传统算力设备和网络设备的边界，在网络设备中融合计算和传输以提升计算效率，实现在网计算。
+
 ## Publications
 ### Emerging Networking Hardware
 - **GLSVLSI 2023** ["Optimize the TX Architecture of RDMA NIC for Performance Isolation in the Cloud Environment"](https://dl.acm.org/doi/10.1145/3583781.3590276), **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. [Code](https://github.com/liaoyunkun/RDMA-NIC-Isolation-Research)
