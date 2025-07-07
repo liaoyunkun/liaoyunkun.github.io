@@ -7,11 +7,9 @@
 Hi! I am Yunkun Liao (廖云坤), a 5th year Ph.D. student at ICT, CAS, advised by Prof. [Guihai Yan](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328593.html). I research the intersection between computer 
  network and computer architecture.
 
- I have recently (from 2024/05) been researching the trusted execution environment (TEE) and one related paper is under review.
+[Google Scholar](https://scholar.google.com/citations?user=6ITn_W8AAAAJ&hl=en) 
 
-[Google Scholar](https://scholar.google.com/citations?user=6ITn_W8AAAAJ&hl=en) **I hope to improve the quality of my research continuously.**
-
-I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I am looking for industrial jobs. FEEL FREE TO CONTACT ME!
+I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I am looking for jobs. FEEL FREE TO CONTACT ME!
 
 ## Research Interests
 * Programmable Network Devices: SmartNIC, Data Processing Unit (DPU)
@@ -40,6 +38,7 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 - **Euro-PAR 2024** ["Efficient RNIC Cache Side-channel Attack Detection through DPU-driven Architecture"](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_1), **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. [Slides](./europar-2024-rcsca.pdf)
 - **Euro-PAR 2024** ["Athena: Add More Intelligence to RMT-based Network Data Plane with Low-bit Quantization"](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_18), **Yunkun Liao**, Hanyue Lin, Jingya Wu, Wenyan Lu, Huawei Li, Xiaowei Li and Guihai Yan. [Code](https://github.com/liaoyunkun/dpu-driven-scadet/tree/master), [Slides](./europar-2024-athena.pdf)
 - **CCF-THPC** "FUS: FPGA-based Universal Sketch with Homogeneous and Heterogeneous Memory Architectures" **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan.
+- **ICCAD** (To appear) "SNO: Securing Network Function Offloading on FPGA-based SmartNICs in Untrusted Clouds." **Yunkun Liao**, Jingya Wu, Wenyan Lu, Hang Lu, Xiaowei Li, Guihai Yan.
 
 ### Domain-specific Accelerator
 - **FPL 2020** ["A Winograd-based CNN accelerator with a fine-grained regular sparsity pattern"](https://ieeexplore.ieee.org/document/9221628), Tao Yang, **Yunkun Liao**, Jianping Shi, Yun Liang, Naifeng Jing, Li Jiang. [Code, Pruning Algorithm](https://github.com/liaoyunkun/Winograd-NN-Prune-FPL-2020)
@@ -49,7 +48,8 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 - [RDMA网卡发送队列的性能隔离方法和RDMA网卡](./patent_1.png)
 - [一种基于智能网卡的存储方法及系统](./patent_2.png)
 - [一种队列对状态管理方法及系统](./patent_3.png)
-- 一种基于硬件多线程的RDMA数据发送队列管理方法及装置
+- [一种基于硬件多线程的RDMA数据发送队列管理方法及装置](./patent_4.png)
+- [一种基于远程直接内存访问的队列页表管理方法及装置](./patent_5.png)
 
 ## Whitepapers
 - [Technical White Paper of Data Processing Unit, in Chinese](./DPU-whitepaper-publish-2021.pdf): This is the first DPU whitepaper in China.
