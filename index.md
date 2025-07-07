@@ -1,0 +1,86 @@
+# Yunkun Liao (廖云坤)
+
+## About Me
+
+<img class="profile-picture" src="Yunkun_in_Madrid.jpg">
+
+Hi! I am Yunkun Liao (廖云坤), a 5th year Ph.D. student at ICT, CAS, advised by Prof. [Guihai Yan](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328593.html). I research the intersection between computer 
+ network and computer architecture.
+
+ I have recently (from 2024/05) been researching the trusted execution environment (TEE) and one related paper is under review.
+
+[Google Scholar](https://scholar.google.com/citations?user=6ITn_W8AAAAJ&hl=en) **I hope to improve the quality of my research continuously.**
+
+I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I am looking for industrial jobs. FEEL FREE TO CONTACT ME!
+
+## Research Interests
+* Programmable Network Devices: SmartNIC, Data Processing Unit (DPU)
+* Domain-specific Accelerators
+* Scale Up/Out Interconnect for Emerging Workloads like LLM
+
+## Education
+* Sep. 2020 - Present: **State Key Laboratory of Processors, Institute of Computing Technology, Chinese Academy of Sciences**
+
+   Ph.D. student in Computer Systems and Architecture
+
+
+* Sep. 2016 - Jun. 2020: **Shanghai Jiao Tong University**
+
+   B.E. in Microelectronics Science and Engineering
+
+## Industry Experience
+* Jan. 2021 - Jun. 2022: **YUSUR Technology Co., Ltd.**
+
+   FPGA/IC engineer for RDMA NIC subsystem. Related products: [FLEXFLOW®-2100R RDMA](https://www.yusur.tech/product/flexflow/flexflow2100r), [K2-Pro DPU Chip, full-fledged DPU, taped out in TSMC 28nm](https://www.yusur.tech/dpu/K2-Pro).
+
+## Publications
+### Emerging Networking Hardware
+- **GLSVLSI 2023** ["Optimize the TX Architecture of RDMA NIC for Performance Isolation in the Cloud Environment"](https://dl.acm.org/doi/10.1145/3583781.3590276), **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. [Code](https://github.com/liaoyunkun/RDMA-NIC-Isolation-Research) Some parts of this paper are used in commodity DPU Chip, [Slides](./glsvlsi_2023_pre.pdf)
+- **TC** ["DPU-Direct: Unleashing Remote Accelerators via Enhanced RDMA for Disaggregated Datacenters"](https://ieeexplore.ieee.org/abstract/document/10536912),  **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. [Slides](./DPU-Direct-Intro.pdf)
+- **Euro-PAR 2024** ["Efficient RNIC Cache Side-channel Attack Detection through DPU-driven Architecture"](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_1), **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. [Slides](./europar-2024-rcsca.pdf)
+- **Euro-PAR 2024** ["Athena: Add More Intelligence to RMT-based Network Data Plane with Low-bit Quantization"](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_18), **Yunkun Liao**, Hanyue Lin, Jingya Wu, Wenyan Lu, Huawei Li, Xiaowei Li and Guihai Yan. [Code](https://github.com/liaoyunkun/dpu-driven-scadet/tree/master), [Slides](./europar-2024-athena.pdf)
+- **CCF-THPC** "FUS: FPGA-based Universal Sketch with Homogeneous and Heterogeneous Memory Architectures" **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan.
+
+### Domain-specific Accelerator
+- **FPL 2020** ["A Winograd-based CNN accelerator with a fine-grained regular sparsity pattern"](https://ieeexplore.ieee.org/document/9221628), Tao Yang, **Yunkun Liao**, Jianping Shi, Yun Liang, Naifeng Jing, Li Jiang. [Code, Pruning Algorithm](https://github.com/liaoyunkun/Winograd-NN-Prune-FPL-2020)
+- **DAC 2024** ["PHD: Parallel Huffman Decoder on FPGA for Extreme Performance and Energy Efficiency"](https://dl.acm.org/doi/10.1145/3649329.3655967), **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. [Slides](./dac_2024_pre.pdf)
+
+## Chinese Patents
+- [RDMA网卡发送队列的性能隔离方法和RDMA网卡](./patent_1.png)
+- [一种基于智能网卡的存储方法及系统](./patent_2.png)
+- [一种队列对状态管理方法及系统](./patent_3.png)
+- 一种基于硬件多线程的RDMA数据发送队列管理方法及装置
+
+## Whitepapers
+- [Technical White Paper of Data Processing Unit, in Chinese](./DPU-whitepaper-publish-2021.pdf): This is the first DPU whitepaper in China.
+- [DPU Benchmark Methodology and Implementation, in Chinese](./DPU_Benchmark.pdf): This is China's first DPU evaluation whitepaper.
+
+## Honors and Awards
+* CCF HPC China 2024 Outstanding Research Paper
+* 2023 UCAS Merit Student
+  
+## Services
+
+* Reviewer: BenchCouncil Transactions on Benchmarks, Standards and Evaluations; IEEE Transactions on Information Forensics and Security; ISCAS 2025
+
+## Talks
+
+* [CCF Chip 2022](./ccf_chip_2022.jpg), Nanjing
+* DAC 2024, San Francisco
+* EuroPar 2024, Madrid
+* CCF HPC China 2024, Wuhan
+
+## Contact Me
+
+* Email: [liaoyunkun20s@ict.ac.cn](mailto:liaoyunkun20s@ict.ac.cn)
+* Postal Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District Beijing, China 100190
+
+## Misc
+- Books I like: 《Jean-Christophe》,《Really Achieving Your Childhood Dreams》,《The Snows of Kilimanjaro》,《Minimalism》,《Decisive Moments in History》, 《Educated》
+
+
+---
+
+
+
+

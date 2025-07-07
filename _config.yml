@@ -1,0 +1,25 @@
+remote_theme: ankitsultana/researcher@gem
+title: Yunkun's Homepage
+#url: "https://ankitsultana.com"
+#baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: no
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+#sass:
+ #   style: compressed
+  #  sass_dir: _sass
+
+nav:
+ #- name: "About"
+  # link: "/researcher/"
+ #- name: "CV"
+  # link: "cv_en_heyintao.pdf"
+ #- name: "Contact"
+  # link: "contact"
