@@ -30,7 +30,7 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 * Jan. 2021 - Jun. 2022: **YUSUR Technology Co., Ltd.**
 
    FPGA/IC engineer for RDMA NIC subsystem.
-* Apr. 2025 - Jun. 2022: **YUSUR Technology Co., Ltd.**
+* Apr. 2025 - Jun. 2025: **YUSUR Technology Co., Ltd.**
 
    RDMA driver deverloper for NP-based RDMA NIC
 
