@@ -14,7 +14,7 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 ## Research Interests
 * Programmable Network Devices: SmartNIC, Data Processing Unit (DPU)
 * Domain-specific Accelerators
-* Scale Up/Out Interconnect for Emerging Workloads like LLM
+* Scale Up/Out Interconnect (e.g., UEC, UALink) for Emerging Workloads like LLM
 
 ## Education
 * Sep. 2020 - Present: **State Key Laboratory of Processors, Institute of Computing Technology, Chinese Academy of Sciences**
@@ -29,7 +29,11 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 ## Industry Experience
 * Jan. 2021 - Jun. 2022: **YUSUR Technology Co., Ltd.**
 
-   FPGA/IC engineer for RDMA NIC subsystem. Related products: [FLEXFLOW®-2100R RDMA](https://www.yusur.tech/product/flexflow/flexflow2100r), [K2-Pro DPU Chip, full-fledged DPU, taped out in TSMC 28nm](https://www.yusur.tech/dpu/K2-Pro).
+   FPGA/IC engineer for RDMA NIC subsystem.
+* Apr. 2025 - Jun. 2022: **YUSUR Technology Co., Ltd.**
+
+   RDMA driver deverloper for NP-based RDMA NIC
+
 
 ## Publications
 ### Emerging Networking Hardware
@@ -37,7 +41,7 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 - **TC** ["DPU-Direct: Unleashing Remote Accelerators via Enhanced RDMA for Disaggregated Datacenters"](https://ieeexplore.ieee.org/abstract/document/10536912),  **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. [Slides](./DPU-Direct-Intro.pdf)
 - **Euro-PAR 2024** ["Efficient RNIC Cache Side-channel Attack Detection through DPU-driven Architecture"](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_1), **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan. [Slides](./europar-2024-rcsca.pdf)
 - **Euro-PAR 2024** ["Athena: Add More Intelligence to RMT-based Network Data Plane with Low-bit Quantization"](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_18), **Yunkun Liao**, Hanyue Lin, Jingya Wu, Wenyan Lu, Huawei Li, Xiaowei Li and Guihai Yan. [Code](https://github.com/liaoyunkun/dpu-driven-scadet/tree/master), [Slides](./europar-2024-athena.pdf)
-- **CCF-THPC** "FUS: FPGA-based Universal Sketch with Homogeneous and Heterogeneous Memory Architectures" **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan.
+- **CCF-THPC** ["FUS: FPGA-based Universal Sketch with Homogeneous and Heterogeneous Memory Architectures"(https://link.springer.com/article/10.1007/s42514-025-00222-5) **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan.
 - **ICCAD 2025** (To appear) "SNO: Securing Network Function Offloading on FPGA-based SmartNICs in Untrusted Clouds." **Yunkun Liao**, Jingya Wu, Wenyan Lu, Hang Lu, Xiaowei Li, Guihai Yan.
 
 ### Domain-specific Accelerator
