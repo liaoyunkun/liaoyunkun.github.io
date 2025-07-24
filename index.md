@@ -61,7 +61,8 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 
 ## Honors and Awards
 * CCF HPC China 2024 Outstanding Research Paper
-* 2023 UCAS Merit Student
+* 2023-2024 UCAS Merit Student
+* 2024-2025 UCAS Top Merit Student 
   
 ## Services
 
@@ -76,7 +77,7 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 
 ## Contact Me
 
-* Email: [liaoyunkun20s@ict.ac.cn](mailto:liaoyunkun20s@ict.ac.cn)
+* Email: [liaoyunkun20@mails.ucas.ac.cn](mailto:liaoyunkun20@mails.ucas.ac.cn)
 * Postal Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District Beijing, China 100190
 
 ## Misc
