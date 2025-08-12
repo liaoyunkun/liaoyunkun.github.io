@@ -43,6 +43,7 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 - **Euro-PAR 2024** ["Athena: Add More Intelligence to RMT-based Network Data Plane with Low-bit Quantization"](https://link.springer.com/chapter/10.1007/978-3-031-69766-1_18), **Yunkun Liao**, Hanyue Lin, Jingya Wu, Wenyan Lu, Huawei Li, Xiaowei Li and Guihai Yan. [Code](https://github.com/liaoyunkun/dpu-driven-scadet/tree/master), [Slides](./europar-2024-athena.pdf)
 - **CCF-THPC** ["FUS: FPGA-based Universal Sketch with Homogeneous and Heterogeneous Memory Architectures"](https://link.springer.com/article/10.1007/s42514-025-00222-5) **Yunkun Liao**, Jingya Wu, Wenyan Lu, Xiaowei Li, Guihai Yan.
 - **ICCAD 2025** (To appear) "SNO: Securing Network Function Offloading on FPGA-based SmartNICs in Untrusted Clouds." **Yunkun Liao**, Jingya Wu, Wenyan Lu, Hang Lu, Xiaowei Li, Guihai Yan.
+- (In submission to journal) "T-SNIC: Architecting Trusted SmartNIC for Confidential End-host In-Network Computing"  **Yunkun Liao**, Jingya Wu, Wenyan Lu, Hang Lu, Xiaowei Li, Guihai Yan.
 
 ### Domain-specific Accelerator
 - **FPL 2020** ["A Winograd-based CNN accelerator with a fine-grained regular sparsity pattern"](https://ieeexplore.ieee.org/document/9221628), Tao Yang, **Yunkun Liao**, Jianping Shi, Yun Liang, Naifeng Jing, Li Jiang. [Code, Pruning Algorithm](https://github.com/liaoyunkun/Winograd-NN-Prune-FPL-2020)
