@@ -11,6 +11,8 @@ Hi! I am Yunkun Liao (廖云坤), a 5th year Ph.D. student at ICT, CAS, advised 
 
 I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I am looking for jobs. FEEL FREE TO CONTACT ME!
 
+**He who has a why to live can bear almost any how.**
+
 ## Research Interests
 * Programmable Network Devices: SmartNIC, Data Processing Unit (DPU)
 * Domain-specific Accelerators
