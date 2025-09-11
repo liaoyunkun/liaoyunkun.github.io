@@ -5,7 +5,7 @@
 <img class="profile-picture" src="Yunkun_in_Madrid.jpg">
 
 Hi! I am Yunkun Liao (廖云坤), a last-year Ph.D. student at ICT, CAS, advised by Prof. [Guihai Yan](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328593.html). I research the intersection between computer 
- network and computer architecture.
+ network and computer architecture. My career goal is to become a chip and system architect, and I am working diligently toward that.
 
 [Google Scholar](https://scholar.google.com/citations?user=6ITn_W8AAAAJ&hl=en) 
 
