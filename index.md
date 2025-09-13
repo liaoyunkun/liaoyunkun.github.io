@@ -85,6 +85,7 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 
 ## Misc
 - Books I like: 《Jean-Christophe》,《Really Achieving Your Childhood Dreams》,《The Snows of Kilimanjaro》,《Minimalism》,《Decisive Moments in History》, 《Educated》
+- I share technical blogs on [Zhihu](https://www.zhihu.com/people/qi-ming-zi-zhen-nan-38-2/posts)
 
 
 ---
