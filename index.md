@@ -24,7 +24,7 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
    Ph.D. student in Computer Systems and Architecture
 
 
-* Sep. 2016 - Jun. 2020: **Shanghai Jiao Tong University**
+* Sep. 2016 - Jun. 2020: **Shanghai Jiao Tong University, School of Electronic Information and Electrical Engineering**
 
    B.E. in Microelectronics Science and Engineering
 
