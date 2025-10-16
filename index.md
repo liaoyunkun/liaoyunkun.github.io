@@ -63,7 +63,7 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 - [DPU Benchmark Methodology and Implementation, in Chinese](./DPU_Benchmark.pdf): This is China's first DPU evaluation whitepaper.
 
 ## Honors and Awards
-* CCF HPC China 2024 Outstanding Research Paper
+* [CCF HPC China 2024 Outstanding Research Paper](https://ccf.org.cn/hpcchina2024/general_2187)
 * 2023-2024 UCAS Merit Student
 * 2024-2025 UCAS Top Merit Student 
   
