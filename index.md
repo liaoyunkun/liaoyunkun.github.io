@@ -4,12 +4,12 @@
 
 <img class="profile-picture" src="Yunkun_in_Madrid.jpg">
 
-Hi! I am Yunkun Liao (廖云坤), a last-year Ph.D. student at ICT, CAS, advised by Prof. [Guihai Yan](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328593.html). I research the intersection between computer 
+Hi! I am Yunkun Liao (廖云坤), a Ph.D. at ICT, CAS, advised by Prof. [Guihai Yan](http://english.ict.cas.cn/people/scien/bln/202303/t20230321_328593.html). I research the intersection between computer 
  network and computer architecture. 
  
 [Google Scholar](https://scholar.google.com/citations?user=6ITn_W8AAAAJ&hl=en) 
 
-I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I am looking for jobs. FEEL FREE TO CONTACT ME!
+I finished my thesis defense in 2025/11 and will graduate in 2026/01. I am looking for jobs. FEEL FREE TO CONTACT ME!
 
 **He who has a why to live can bear almost any how.**
 
@@ -21,7 +21,7 @@ I am expected to finish my thesis defense in 2025/11 and graduate in 2026/01. I 
 ## Education
 * Sep. 2020 - Present: **State Key Laboratory of Processors, Institute of Computing Technology, Chinese Academy of Sciences**
 
-   Ph.D. student in Computer Systems and Architecture
+   Ph.D. in Computer Systems and Architecture
 
 
 * Sep. 2016 - Jun. 2020: **Shanghai Jiao Tong University, School of Electronic Information and Electrical Engineering**
