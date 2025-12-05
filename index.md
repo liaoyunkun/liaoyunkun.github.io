@@ -9,7 +9,7 @@ Hi! I am Yunkun Liao (廖云坤), obtained my Ph.D. at ICT, CAS, advised by Prof
  
 [Google Scholar](https://scholar.google.com/citations?user=6ITn_W8AAAAJ&hl=en) 
 
-I finished my thesis defense in 2025/11 and will graduate in 2026/01. I am looking for jobs. FEEL FREE TO CONTACT ME!
+I finished my thesis defense in 2025/11 and will graduate in 2026/01. I will join Tencent Cloud High-performance Network team as an engineer.
 
 **He who has a why to live can bear almost any how.**
 
